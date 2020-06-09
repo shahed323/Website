@@ -8,4 +8,4 @@ The website was created for the purpose of a college assignment however this wil
 
 ## Index Page
 
-* The Homepage is the main page for users will see when they arrive to the website 
+* The Homepage is the main page for users that will see when they arrive to the website 
