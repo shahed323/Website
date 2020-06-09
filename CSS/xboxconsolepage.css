@@ -1,0 +1,140 @@
+body{
+width:99%;
+margin:auto;
+min-width:600px;
+max-width:2000px;	
+}
+
+.pagenamexboxConsoleGames{
+position:fixed; top:10px; right:400px;
+font-size: 20px;
+color: yellow;
+}
+
+.Destiny2gameimage{
+position:fixed; top:200px; right:1150px;	
+}
+
+.Destiny2imagedescription{
+position: fixed; top: 200px; right: 1030px;
+color:yellow;
+border-bottom: 1px; 
+}	
+
+.Destiny2imagedescription .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.Destiny2imagedescription:hover .tooltiptext {
+    visibility: visible;
+}
+
+.Destiny2Price{
+position: fixed; top:160px; right: 1220px;
+font-size: 12px;	
+color: yellow;
+}
+
+.Destiny2Video{
+position: fixed; top: 400px; right: 1090;	
+}
+
+.Starwarsgameimage{
+position:fixed; top:200px; right:700px;			
+}
+
+
+/* Tooltip container */
+.Starwarsimagedescription {
+    position: relative;
+    display: inline-block;
+	position: fixed; top: 200px; right:520px;
+	color: yellow;
+    border-bottom: 1px; 
+}
+
+/* Tooltip text */
+.Starwarsimagedescription .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.Starwarsimagedescription:hover .tooltiptext {
+    visibility: visible;
+}
+
+.StarwarsPrice{
+position: fixed; top:165px; right: 750px;
+font-size: 12px;	
+color: yellow;
+}
+
+.StarwarsVideo{
+position: fixed; top: 400px; right: 650px;
+}	
+
+.Injustice2image{
+position: fixed; top: 200px; right: 250px;	
+}
+
+/* Tooltip container */
+.Injustice2description {
+    position: relative;
+    display: inline-block;
+	position: fixed; top: 200px; right:80px;
+	color: yellow;
+    border-bottom: 1px; 
+}
+
+/* Tooltip text */
+.Injustice2description .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    /* Position the tooltip text - see examples below! */
+    position: fixed;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.Injustice2description:hover .tooltiptext {
+    visibility: visible;
+}
+
+.Injustice2Price{
+position: fixed; top:160px; right: 310px;
+font-size: 15px;	
+color: yellow;
+}
+
+.Injustice2Video{
+position: fixed; top:400px; right: 195px
+}
+
+

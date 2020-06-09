@@ -1,0 +1,21 @@
+body
+{
+width:99%;
+margin:auto;
+min-width:600px;
+max-width:2000px;	
+}
+
+.About{
+background-color: Blue;
+color: yellow;
+font-size: 30px;
+}
+
+.About2
+{
+background-color: Blue;
+color:yellow;	
+font-size: 30px;	
+}
+	

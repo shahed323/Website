@@ -1,0 +1,141 @@
+body{
+width:99%;
+margin:auto;
+min-width:600px;
+max-width:2000px;		
+}
+
+.pagenamePCGames{
+position:fixed; top:10px; right:520px;
+font-size: 20px;
+color: yellow;
+}
+
+.farcrygameimage{
+position:fixed; top:200px; right:1150px;	
+}
+
+.FarCryimagedescription{
+position: fixed; top: 200px; right: 1030px;
+color:yellow;
+border-bottom: 1px; 
+}	
+
+.FarCryimagedescription .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.FarCryimagedescription:hover .tooltiptext {
+    visibility: visible;
+}
+
+.FarCryPrice{
+position: fixed; top:160px; right: 1220px;
+font-size: 12px;	
+color: yellow;
+}
+
+.FarCryVideo{
+position: fixed; top: 400px; right: 1090;	
+}
+
+.GTA5gameimage{
+position:fixed; top:200px; right:700px;			
+}
+
+
+/* Tooltip container */
+.GTA5imagedescription {
+    position: relative;
+    display: inline-block;
+	position: fixed; top: 200px; right:580px;
+	color: yellow;
+    border-bottom: 1px; 
+}
+
+/* Tooltip text */
+.GTA5imagedescription .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.GTA5imagedescription:hover .tooltiptext {
+    visibility: visible;
+}
+
+.GTA5Price{
+position: fixed; top:165px; right: 750px;
+font-size: 12px;	
+color: yellow;
+}
+
+.GTA5Video{
+position: fixed; top: 400px; right: 650px;
+}	
+
+.Flightsimulatorimage{
+position: fixed; top: 200px; right: 250px;	
+}
+
+/* Tooltip container */
+.Flightsimulatordescription {
+    position: relative;
+    display: inline-block;
+	position: fixed; top: 200px; right:130px;
+	color: yellow;
+    border-bottom: 1px; 
+}
+
+/* Tooltip text */
+.Flightsimulatordescription .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    /* Position the tooltip text - see examples below! */
+    position: fixed;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.Flightsimulatordescription:hover .tooltiptext {
+    visibility: visible;
+}
+
+.FlightsimulatorPrice{
+position: fixed; top:160px; right: 310px;
+font-size: 15px;	
+color: yellow;
+}
+
+.FlightSimulatorVideo{
+position: fixed; top:400px; right: 195px
+}
+
+
+
