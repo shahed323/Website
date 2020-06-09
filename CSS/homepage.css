@@ -1,18 +1,37 @@
 body{
+  background: #fcc
+}
+
+@media screen and (min-width: 500px)
+{
+
+  body{
 	font-family: 'lucida grande' , tahona, vandana arian, sans-serif;
 	background-image: url(../images/background.jpg);
 	width:99%;
 	margin:auto;
-	min-width:600px;
-	max-width:2000px;	
+
+}
+}
+@media screen and (min-width: 1000px)
+{
+  body
+  {
+    background: #ccf;
+   
+
+  };
 }
 
+
+
+
 .slogan{
-position:fixed; top:10px; right:250px;	
+position:absolute; top:10px; right:250px;	
 }
 
 .logotext{
-position:fixed; top:10px; right: 770px;
+position:absolute; top:10px; right: 770px;
 }
 
 
@@ -97,7 +116,7 @@ position:fixed; top:10px; right: 770px;
   transition: width .25s;
 }
 
-}
+
 #cssmenu.align-right li.last > a:after,
 #cssmenu.align-right li:last-child > a:after {
   display: block;
@@ -127,23 +146,6 @@ position:fixed; top:10px; right: 770px;
 }
 
 
-input.MyButton {
-width: 150px;
-position: fixed; top: 30px; right: 50px; 
-padding: 20px;
-cursor: pointer;
-font-weight: bold;
-font-size: 150%;
-background: #00CED1;
-color: yellow;
-border: 1px solid #3366cc;
-border-radius: 10px;
-}
-input.MyButton:hover {
-color: #7FFF00;
-background: #000;
-border: 1px solid #7FFF00;
-}
 
 .introvideo{
 position:fixed; top:160px; right:455px;
