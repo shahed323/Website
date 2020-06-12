@@ -52,7 +52,7 @@ max-width:2000px;
 
 
 .FarCryimagedescription{
-position: fixed; top: 200px; right: 1030px;
+position: absolute; top: 200px; right: 1030px;
 color:yellow;
 border-bottom: 1px; 
 }	
@@ -86,9 +86,7 @@ color: yellow;
 position: fixed; top: 400px; right: 1090;	
 }
 
-.GTA5gameimage{
-position:fixed; top:200px; right:700px;			
-}
+
 
 
 /* Tooltip container */
@@ -173,5 +171,11 @@ color: yellow;
 position: fixed; top:400px; right: 195px
 }
 
+.copyrighttext2
+{
+    position: absolute; top: 25%;
+
+
+}
 
 
