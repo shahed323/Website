@@ -1,3 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: inherit;
+  
+  }
+  
+  body{
+    background: #fcc
+  }
+  
+  @media screen and (min-width: 500px)
+  {
+  
+    body{
+      font-family: 'lucida grande' , tahona, vandana arian, sans-serif;
+      background-image: url(../images/background.jpg);
+      width:99%;
+      margin:auto;
+  
+  }
+  }
+  @media screen and (min-width: 1000px)
+  {
+    body
+    {
+      background: #ccf;
+     
+  
+    };
+  
+  
+  
+  }
+
+
+
 body{
 width:99%;
 margin:auto;
@@ -5,15 +43,13 @@ min-width:600px;
 max-width:2000px;		
 }
 
-.pagenamePCGames{
-position:fixed; top:10px; right:520px;
-font-size: 20px;
-color: yellow;
-}
 
 .farcrygameimage{
-position:fixed; top:200px; right:1150px;	
+        position:fixed; top:350px; right:1150px;	
 }
+
+
+
 
 .FarCryimagedescription{
 position: fixed; top: 200px; right: 1030px;
