@@ -36,12 +36,7 @@
 
 
 
-body{
-width:99%;
-margin:auto;
-min-width:600px;
-max-width:2000px;		
-}
+
 
 
 .farcrygameimage{
@@ -49,7 +44,11 @@ max-width:2000px;
 }
 
 
-
+.PagenamePCGames{
+        position: absolute; top:50px; right: 50px; 
+        font-size: 20px;
+        color:lightcoral;   
+}
 
 .FarCryimagedescription{
 position: absolute; top: 200px; right: 1030px;
@@ -87,7 +86,10 @@ position: fixed; top: 400px; right: 1090;
 }
 
 
+.BO4image{
 
+    position: absolute; top:20%; left: 1%;
+}
 
 /* Tooltip container */
 .GTA5imagedescription {
@@ -118,10 +120,10 @@ position: fixed; top: 400px; right: 1090;
     visibility: visible;
 }
 
-.GTA5Price{
-position: fixed; top:165px; right: 750px;
-font-size: 12px;	
-color: yellow;
+.BO4Price{
+position: absolute; top:480px; left: 100px;
+font-size: 15px;	
+color: royalblue;
 }
 
 .GTA5Video{
@@ -171,11 +173,6 @@ color: yellow;
 position: fixed; top:400px; right: 195px
 }
 
-.copyrighttext2
-{
-    position: absolute; top: 25%;
 
-
-}
 
 
