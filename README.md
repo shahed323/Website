@@ -6,6 +6,10 @@ The website was created for the purpose of a college assignment however this wil
 * This readme file will be updated once the assingment is completed.
 
 
+## Link to access Github Website 
+
+* https://github.com/shahed323/Website.git
+
 ## Index Page
 
 * The Homepage is the main page for users that will see when they arrive to the website 
