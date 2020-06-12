@@ -29,4 +29,4 @@ The website was created for the purpose of a college assignment however this wil
 
 * Mainly information about the company. 
 
-* All pages are consitent with appearence and colors. The layout is also similar in each pages.
+* All pages are consistent with appearence and colors. The layout is also similar in each pages.
